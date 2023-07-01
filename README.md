@@ -1,2 +1,3 @@
 # Computer-science-notes
-Notes
+Notes I made while learning these tech stacks.
+
