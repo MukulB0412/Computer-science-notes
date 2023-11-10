@@ -7,3 +7,4 @@ Notes I made while learning these tech stacks.
 
 [CSS](https://github.com/Bhardwaj0412/Computer-science-notes/blob/main/WebDev%20Notes.pdf)
 
+[Computer Networking](https://github.com/MukulB0412/Computer-science-notes/blob/main/Computer%20networking.pdf)
